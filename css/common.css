@@ -297,6 +297,7 @@ a {
 .meun-bar.active {
   transform: translateY(0);
   opacity: 1;
+  background: url("../image/bg_ww.png");
 }
 .menu-box {
   width: 100%;
